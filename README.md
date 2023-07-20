@@ -1,2 +1,2 @@
 # .github
-Think in Coi Project
+Think in Coin Project
